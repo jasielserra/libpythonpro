@@ -9,4 +9,3 @@ script:
 after_success:
   - codecov
 
-CODECOV_TOKEN='2909c3bb-29f9-4eda-8609-40a28e8b2d89'
